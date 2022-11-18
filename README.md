@@ -21,5 +21,5 @@ You just sign up with your Google account and are ready to code.
 You can also real-time preview your code on device or in an emulator. Instructions on installation are found on their [Getting Started site](https://appinventor.mit.edu/explore/get-started).
 
 ## How to im- and export
-For installing on Android devices, download the latest .apk from releases to your device.
+For installing on Android devices, download the latest .apk from [releases](https://github.com/fredFabLab/BSEmonitor/releases) to your device.
 For editing the app, download any .aia and import it into the App Inventor (online). From there you can download the updated .aia and share it here.
