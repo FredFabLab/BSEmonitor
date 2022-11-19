@@ -19,6 +19,7 @@ This project is developed within the [MIT App Inventor](https://appinventor.mit.
 This graphical programming interface is easy-to-use and doesn't need any local computing, since it's running on server – in your web browser.
 You just sign up with your Google account and are ready to code.
 You can also real-time preview your code on device or in an emulator. Instructions on installation are found on their [Getting Started site](https://appinventor.mit.edu/explore/get-started).
+It's an open source project, you can find the source [here on GitHub](https://github.com/mit-cml/appinventor-sources).
 
 ## How to im- and export
 For installing on Android devices, download the latest .apk from [releases](https://github.com/fredFabLab/BSEmonitor/releases) to your device.
