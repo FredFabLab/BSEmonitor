@@ -28,7 +28,7 @@ It's an open source project, you can find the source [here on GitHub](https://gi
 ## How to im- and export
 
 For installing on Android devices, download the latest .apk from [releases](https://github.com/fredFabLab/BSEmonitor/releases) to your device.
-For editing the app, download any .aia and import it into the App Inventor (online). From there you can download the updated .aia and share it here.
+For editing the app, download the .aia and import it into the App Inventor (online). From there you can download the updated .aia and share it here.
 
 
 # Versioning
