@@ -34,5 +34,7 @@ For editing the app, download any .aia and import it into the App Inventor (onli
 # Versioning
 
 Versions are **allways** named in the following scheme:
-    major.minor.patch*-prerelease.patch*
+
+    major.minor.patch-prerelease.patch
+
 Where *-prerelease.patch* is - of course - optional.
