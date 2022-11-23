@@ -15,7 +15,7 @@ In each category, there are several numeric data entries.
 All the data is stored as per-day entry in an internal database, but export to csv is possible.
 There's also an internal statistics feature, which gives you see all entries as a list, development over time, totals and averages.
 
-<img src="https://user-images.githubusercontent.com/92583344/202854352-ced9e710-421f-4dba-a8b7-ef4c1fa62793.jpeg" alt="main screen" width="30%"> <img src="https://user-images.githubusercontent.com/92583344/202854362-6af04409-91fa-4402-a00b-08bd9b01a594.jpeg" alt="input sceen" width="30%"> <img src="https://user-images.githubusercontent.com/92583344/202854357-894f2cc1-af62-496b-8651-b821d003d498.jpeg" alt="statistics screen" width="30%">
+<img src="https://user-images.githubusercontent.com/92583344/203498514-0e730d4e-50d1-4b31-ba79-39fe3047345c.jpeg" width="30%"> <img src="https://user-images.githubusercontent.com/92583344/203498501-d3a0b7f5-40d5-4bd0-9c70-94a0dd1a523e.jpeg" alt="input sceen" width="30%"> <img src="https://user-images.githubusercontent.com/92583344/203498520-c618499f-a0ac-4bc9-b22a-5fe9e1456237.jpeg" alt="statistics screen" width="30%">
 
 
 # Development environment
