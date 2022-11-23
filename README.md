@@ -5,8 +5,8 @@ It is specifically developed for a DIY-man in Mwanza, Tanzania, but can (more or
 
 The app supports currently the following categories:
 * **Domestic**
-* **Outdoor**
-* **Animals**
+* **Farm**
+* **Electricity**
 * **Community**
 * **Pump**
 * **Well**
